@@ -22,7 +22,7 @@ class CustomNavbar extends Component {
 
 CustomNavbar.tagName = 'custom-navbar';
 CustomNavbar.parentTag = ['mj-container'];
-CustomNavbar.endingTag = false;
+CustomNavbar.endingTag = true;
 CustomNavbar.defaultMJMLDefinition = { content: '' };
 
 export default CustomNavbar;
