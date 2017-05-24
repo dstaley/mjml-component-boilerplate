@@ -1,5 +1,5 @@
 {
   "packages": [
-    "./lib/MjColumnImageText.js"
+    "./lib/CustomNavbar.js"
   ]
 }
